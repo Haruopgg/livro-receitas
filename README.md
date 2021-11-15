@@ -4,4 +4,4 @@ Olá ! Bem vindo ao meu livro de receitas
 
 - Pudim
 - Pavê
-- Strogonoff de Frango
+- Bolo de cenoura Strogonoff de Frango
